@@ -334,24 +334,8 @@ if not template_path.exists():
     raise SystemExit("GitHub layout fetch failed: no template.json")
 print("using GitHub", template_path)
 
-(INPUT_DIR / "config.json").write_text(
-    json.dumps(
-        {
-            "dimensions": {
-                "display_height": 932,
-                "display_width": 1024,
-                "processing_height": 932,
-                "processing_width": 1024,
-            },
-            "outputs": {
-                "show_image_level": 0,
-                "save_image_level": 0,
-                "save_detections": True,
-            },
-        },
-        indent=2,
-    )
-)
+cfg = json.loads((INPUT_DIR / "config.json").read_text())
+print("config", cfg.get("dimensions"))
 
 shutil.rmtree(OUTPUT_DIR, ignore_errors=True)
 OUTPUT_DIR.mkdir(parents=True)
