@@ -1,4 +1,4 @@
-Frozen PICO checkbox layout for Colab (1024 x 932, 134 named boxes).
+Frozen PICO checkbox layout and AE tables for Colab.
 
-Files: `boxes.json`, `template.json`, `config.json`, `canvas.jpg` (aligned IMG_7597).
-Colab pulls these on each run. Do not re-detect squares.
+Layout release `layout-v1`: `boxes.json`, `template.json`, `config.json`, `canvas.jpg` (1024 x 932, 134 boxes).
+AE release `ae-v1`: `pico_to_loinc.json`, `train.json` (Synthea + Mendeley co-occurrence, no clinic scans).

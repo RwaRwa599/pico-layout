@@ -1,0 +1,364 @@
+{
+  "comment": "LOINC 2.83 ACTIVE lab terms. Atomic slugs: one code. Panel/profile slugs: constituent lists; overlap intended. Exceptions: egfr=98979-8 CKD-EPI 2021; vitamin_d=62292-8 total 25-OH; ldh=14805-6. Not PICO printed-member confirmation.",
+  "maps": [
+    {
+      "slug": "abo_rh",
+      "loinc": "882-1"
+    },
+    {
+      "slug": "ag_ratio",
+      "loinc": "1759-0"
+    },
+    {
+      "slug": "albumin",
+      "loinc": "1751-7"
+    },
+    {
+      "slug": "alp",
+      "loinc": "6768-6"
+    },
+    {
+      "slug": "alt",
+      "loinc": "1742-6"
+    },
+    {
+      "slug": "ast",
+      "loinc": "1920-8"
+    },
+    {
+      "slug": "bilirubin_direct",
+      "loinc": "1968-7"
+    },
+    {
+      "slug": "bilirubin_total",
+      "loinc": "1975-2"
+    },
+    {
+      "slug": "ca125",
+      "loinc": "10334-1"
+    },
+    {
+      "slug": "calcium",
+      "loinc": "17861-6"
+    },
+    {
+      "slug": "cbc",
+      "loinc": [
+        "6690-2",
+        "789-8",
+        "718-7",
+        "4544-3",
+        "787-2",
+        "785-6",
+        "786-4",
+        "788-0",
+        "777-3",
+        "32207-3",
+        "32623-1"
+      ]
+    },
+    {
+      "slug": "cea",
+      "loinc": "2039-6"
+    },
+    {
+      "slug": "chol_total",
+      "loinc": "2093-3"
+    },
+    {
+      "slug": "ck_total",
+      "loinc": "2157-6"
+    },
+    {
+      "slug": "cl",
+      "loinc": "2075-0"
+    },
+    {
+      "slug": "co2",
+      "loinc": "2028-9"
+    },
+    {
+      "slug": "creatinine",
+      "loinc": "2160-0"
+    },
+    {
+      "slug": "dheas",
+      "loinc": "2191-5"
+    },
+    {
+      "slug": "egfr",
+      "loinc": "98979-8"
+    },
+    {
+      "slug": "esr",
+      "loinc": "4537-7"
+    },
+    {
+      "slug": "estradiol",
+      "loinc": "2243-4"
+    },
+    {
+      "slug": "ferritin",
+      "loinc": "2276-4"
+    },
+    {
+      "slug": "folate",
+      "loinc": "2284-8"
+    },
+    {
+      "slug": "fsh",
+      "loinc": "15067-2"
+    },
+    {
+      "slug": "ft3",
+      "loinc": "3051-0"
+    },
+    {
+      "slug": "ft4",
+      "loinc": "3024-7"
+    },
+    {
+      "slug": "glucose_fasting",
+      "loinc": "1558-6"
+    },
+    {
+      "slug": "glucose_random",
+      "loinc": "2345-7"
+    },
+    {
+      "slug": "hav_ab_igm",
+      "loinc": "13950-1"
+    },
+    {
+      "slug": "hb_pattern",
+      "loinc": "13514-5"
+    },
+    {
+      "slug": "hba1c",
+      "loinc": "4548-4"
+    },
+    {
+      "slug": "hbsag",
+      "loinc": "5196-1"
+    },
+    {
+      "slug": "hdl",
+      "loinc": "2085-9"
+    },
+    {
+      "slug": "iron",
+      "loinc": "2498-4"
+    },
+    {
+      "slug": "k",
+      "loinc": "2823-3"
+    },
+    {
+      "slug": "ldh",
+      "loinc": "14805-6"
+    },
+    {
+      "slug": "ldl",
+      "loinc": "13457-7"
+    },
+    {
+      "slug": "microalbumin",
+      "loinc": "14957-5"
+    },
+    {
+      "slug": "microalbumin_creatinine",
+      "loinc": "14959-1"
+    },
+    {
+      "slug": "na",
+      "loinc": "2951-2"
+    },
+    {
+      "slug": "occult_blood_fit",
+      "loinc": "29771-3"
+    },
+    {
+      "slug": "phosphorus",
+      "loinc": "2777-1"
+    },
+    {
+      "slug": "pregnancy",
+      "loinc": "2106-3"
+    },
+    {
+      "slug": "profile_anemia",
+      "loinc": [
+        "2498-4",
+        "2500-7",
+        "2276-4"
+      ]
+    },
+    {
+      "slug": "profile_cardiovascular",
+      "loinc": [
+        "10839-9",
+        "2157-6",
+        "14805-6"
+      ]
+    },
+    {
+      "slug": "profile_diabetes",
+      "loinc": [
+        "1558-6",
+        "4548-4"
+      ]
+    },
+    {
+      "slug": "profile_lipid",
+      "loinc": [
+        "2093-3",
+        "2571-8",
+        "2085-9",
+        "13457-7"
+      ]
+    },
+    {
+      "slug": "profile_liver",
+      "loinc": [
+        "2885-2",
+        "1751-7",
+        "1975-2",
+        "1968-7",
+        "6768-6",
+        "1920-8",
+        "1742-6"
+      ]
+    },
+    {
+      "slug": "profile_ogtt",
+      "loinc": [
+        "1558-6",
+        "20438-8",
+        "20436-2"
+      ]
+    },
+    {
+      "slug": "profile_renal_function",
+      "loinc": [
+        "3094-0",
+        "2160-0",
+        "2951-2",
+        "2823-3",
+        "2075-0",
+        "2028-9",
+        "17861-6",
+        "2777-1",
+        "98979-8"
+      ]
+    },
+    {
+      "slug": "profile_thyroid",
+      "loinc": [
+        "3016-3",
+        "3024-7",
+        "3051-0"
+      ]
+    },
+    {
+      "slug": "progesterone",
+      "loinc": "2839-9"
+    },
+    {
+      "slug": "prolactin",
+      "loinc": "2842-3"
+    },
+    {
+      "slug": "psa_total",
+      "loinc": "2857-1"
+    },
+    {
+      "slug": "pth",
+      "loinc": "2731-8"
+    },
+    {
+      "slug": "ra_factor",
+      "loinc": "11572-5"
+    },
+    {
+      "slug": "rubella_igg",
+      "loinc": "25514-1"
+    },
+    {
+      "slug": "sars_cov2_igg",
+      "loinc": "94505-5"
+    },
+    {
+      "slug": "semen_analysis",
+      "loinc": [
+        "3160-9",
+        "10580-9",
+        "32789-0",
+        "10569-2",
+        "2295-4",
+        "2752-4"
+      ]
+    },
+    {
+      "slug": "testosterone",
+      "loinc": "2986-8"
+    },
+    {
+      "slug": "tibc",
+      "loinc": "2500-7"
+    },
+    {
+      "slug": "total_protein",
+      "loinc": "2885-2"
+    },
+    {
+      "slug": "triglycerides",
+      "loinc": "2571-8"
+    },
+    {
+      "slug": "troponin_i",
+      "loinc": "10839-9"
+    },
+    {
+      "slug": "tsh",
+      "loinc": "3016-3"
+    },
+    {
+      "slug": "urea",
+      "loinc": "3094-0"
+    },
+    {
+      "slug": "uric_acid",
+      "loinc": "3084-1"
+    },
+    {
+      "slug": "urinalysis",
+      "loinc": [
+        "5767-9",
+        "5778-6",
+        "32167-9",
+        "5792-7",
+        "25428-4",
+        "20505-4",
+        "5770-3",
+        "5797-6",
+        "2514-8",
+        "5811-5",
+        "5803-2",
+        "5804-0",
+        "20454-5",
+        "20405-7",
+        "5802-4",
+        "5794-3",
+        "5799-2"
+      ]
+    },
+    {
+      "slug": "vitamin_b12",
+      "loinc": "2132-9"
+    },
+    {
+      "slug": "vitamin_d",
+      "loinc": "62292-8"
+    }
+  ]
+}
