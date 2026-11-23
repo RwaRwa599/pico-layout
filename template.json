@@ -682,18 +682,18 @@
         "glucose_random"
       ],
       "origin": [
-        283,
+        269,
         86
       ],
       "bubblesGap": 15,
-      "labelsGap": 15,
+      "labelsGap": 14,
       "bubbleValues": [
         "1"
       ],
       "direction": "horizontal",
       "bubbleDimensions": [
         15,
-        15
+        14
       ]
     },
     "creatinine": {
@@ -1100,7 +1100,7 @@
         "uric_acid"
       ],
       "origin": [
-        283,
+        269,
         516
       ],
       "bubblesGap": 15,
@@ -1119,7 +1119,7 @@
         "calcium"
       ],
       "origin": [
-        283,
+        269,
         535
       ],
       "bubblesGap": 15,
@@ -1138,7 +1138,7 @@
         "phosphorus"
       ],
       "origin": [
-        283,
+        269,
         556
       ],
       "bubblesGap": 15,
@@ -1157,7 +1157,7 @@
         "ck_total"
       ],
       "origin": [
-        283,
+        269,
         576
       ],
       "bubblesGap": 15,
@@ -1176,7 +1176,7 @@
         "ldh"
       ],
       "origin": [
-        283,
+        269,
         595
       ],
       "bubblesGap": 15,
@@ -1195,7 +1195,7 @@
         "iron"
       ],
       "origin": [
-        283,
+        269,
         614
       ],
       "bubblesGap": 15,
@@ -1214,18 +1214,18 @@
         "tibc"
       ],
       "origin": [
-        283,
+        269,
         635
       ],
       "bubblesGap": 15,
-      "labelsGap": 15,
+      "labelsGap": 14,
       "bubbleValues": [
         "1"
       ],
       "direction": "horizontal",
       "bubbleDimensions": [
         15,
-        15
+        14
       ]
     },
     "amylase": {
@@ -1233,7 +1233,7 @@
         "amylase"
       ],
       "origin": [
-        283,
+        269,
         653
       ],
       "bubblesGap": 15,
