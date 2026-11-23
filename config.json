@@ -1,0 +1,13 @@
+{
+  "dimensions": {
+    "display_height": 932,
+    "display_width": 1024,
+    "processing_height": 932,
+    "processing_width": 1024
+  },
+  "outputs": {
+    "show_image_level": 0,
+    "save_image_level": 0,
+    "save_detections": true
+  }
+}
