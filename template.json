@@ -17,18 +17,18 @@
         "body_check_1"
       ],
       "origin": [
-        40,
-        79
+        33,
+        95
       ],
-      "bubblesGap": 11,
-      "labelsGap": 11,
+      "bubblesGap": 14,
+      "labelsGap": 14,
       "bubbleValues": [
         "1"
       ],
       "direction": "horizontal",
       "bubbleDimensions": [
-        11,
-        11
+        14,
+        14
       ]
     },
     "body_check_2": {
@@ -37,7 +37,7 @@
       ],
       "origin": [
         33,
-        95
+        112
       ],
       "bubblesGap": 14,
       "labelsGap": 14,
@@ -56,17 +56,17 @@
       ],
       "origin": [
         33,
-        112
+        131
       ],
-      "bubblesGap": 14,
-      "labelsGap": 14,
+      "bubblesGap": 10,
+      "labelsGap": 9,
       "bubbleValues": [
         "1"
       ],
       "direction": "horizontal",
       "bubbleDimensions": [
-        14,
-        14
+        10,
+        9
       ]
     },
     "body_check_4": {
@@ -74,8 +74,8 @@
         "body_check_4"
       ],
       "origin": [
-        34,
-        131
+        33,
+        148
       ],
       "bubblesGap": 10,
       "labelsGap": 9,
@@ -94,7 +94,7 @@
       ],
       "origin": [
         33,
-        148
+        165
       ],
       "bubblesGap": 10,
       "labelsGap": 9,
@@ -112,26 +112,7 @@
         "body_check_6"
       ],
       "origin": [
-        32,
-        165
-      ],
-      "bubblesGap": 10,
-      "labelsGap": 9,
-      "bubbleValues": [
-        "1"
-      ],
-      "direction": "horizontal",
-      "bubbleDimensions": [
-        10,
-        9
-      ]
-    },
-    "body_check_7": {
-      "fieldLabels": [
-        "body_check_7"
-      ],
-      "origin": [
-        29,
+        33,
         180
       ],
       "bubblesGap": 15,
@@ -145,12 +126,12 @@
         15
       ]
     },
-    "profile_anemia": {
+    "body_check_7": {
       "fieldLabels": [
-        "profile_anemia"
+        "body_check_7"
       ],
       "origin": [
-        32,
+        33,
         200
       ],
       "bubblesGap": 10,
@@ -164,13 +145,32 @@
         11
       ]
     },
+    "profile_anemia": {
+      "fieldLabels": [
+        "profile_anemia"
+      ],
+      "origin": [
+        33,
+        238
+      ],
+      "bubblesGap": 10,
+      "labelsGap": 10,
+      "bubbleValues": [
+        "1"
+      ],
+      "direction": "horizontal",
+      "bubbleDimensions": [
+        10,
+        10
+      ]
+    },
     "profile_antenatal": {
       "fieldLabels": [
         "profile_antenatal"
       ],
       "origin": [
-        32,
-        238
+        33,
+        257
       ],
       "bubblesGap": 10,
       "labelsGap": 10,
@@ -189,7 +189,7 @@
       ],
       "origin": [
         33,
-        257
+        274
       ],
       "bubblesGap": 10,
       "labelsGap": 10,
@@ -208,7 +208,7 @@
       ],
       "origin": [
         33,
-        274
+        292
       ],
       "bubblesGap": 10,
       "labelsGap": 10,
@@ -227,7 +227,7 @@
       ],
       "origin": [
         33,
-        292
+        311
       ],
       "bubblesGap": 10,
       "labelsGap": 10,
@@ -246,7 +246,7 @@
       ],
       "origin": [
         33,
-        311
+        331
       ],
       "bubblesGap": 10,
       "labelsGap": 10,
@@ -265,7 +265,7 @@
       ],
       "origin": [
         33,
-        331
+        349
       ],
       "bubblesGap": 10,
       "labelsGap": 10,
@@ -284,16 +284,16 @@
       ],
       "origin": [
         33,
-        349
+        367
       ],
-      "bubblesGap": 10,
+      "bubblesGap": 11,
       "labelsGap": 10,
       "bubbleValues": [
         "1"
       ],
       "direction": "horizontal",
       "bubbleDimensions": [
-        10,
+        11,
         10
       ]
     },
@@ -303,7 +303,7 @@
       ],
       "origin": [
         33,
-        367
+        386
       ],
       "bubblesGap": 11,
       "labelsGap": 10,
@@ -322,7 +322,7 @@
       ],
       "origin": [
         33,
-        386
+        405
       ],
       "bubblesGap": 11,
       "labelsGap": 10,
@@ -341,25 +341,6 @@
       ],
       "origin": [
         33,
-        405
-      ],
-      "bubblesGap": 11,
-      "labelsGap": 10,
-      "bubbleValues": [
-        "1"
-      ],
-      "direction": "horizontal",
-      "bubbleDimensions": [
-        11,
-        10
-      ]
-    },
-    "profile_thyroid": {
-      "fieldLabels": [
-        "profile_thyroid"
-      ],
-      "origin": [
-        34,
         423
       ],
       "bubblesGap": 10,
@@ -373,13 +354,32 @@
         10
       ]
     },
+    "profile_thyroid": {
+      "fieldLabels": [
+        "profile_thyroid"
+      ],
+      "origin": [
+        33,
+        442
+      ],
+      "bubblesGap": 11,
+      "labelsGap": 10,
+      "bubbleValues": [
+        "1"
+      ],
+      "direction": "horizontal",
+      "bubbleDimensions": [
+        11,
+        10
+      ]
+    },
     "profile_tumour": {
       "fieldLabels": [
         "profile_tumour"
       ],
       "origin": [
         33,
-        442
+        461
       ],
       "bubblesGap": 11,
       "labelsGap": 10,
@@ -398,7 +398,7 @@
       ],
       "origin": [
         33,
-        461
+        500
       ],
       "bubblesGap": 11,
       "labelsGap": 10,
@@ -417,25 +417,6 @@
       ],
       "origin": [
         33,
-        500
-      ],
-      "bubblesGap": 11,
-      "labelsGap": 10,
-      "bubbleValues": [
-        "1"
-      ],
-      "direction": "horizontal",
-      "bubbleDimensions": [
-        11,
-        10
-      ]
-    },
-    "abo_rh": {
-      "fieldLabels": [
-        "abo_rh"
-      ],
-      "origin": [
-        33,
         518
       ],
       "bubblesGap": 10,
@@ -449,13 +430,32 @@
         11
       ]
     },
+    "abo_rh": {
+      "fieldLabels": [
+        "abo_rh"
+      ],
+      "origin": [
+        33,
+        538
+      ],
+      "bubblesGap": 10,
+      "labelsGap": 10,
+      "bubbleValues": [
+        "1"
+      ],
+      "direction": "horizontal",
+      "bubbleDimensions": [
+        10,
+        10
+      ]
+    },
     "ana": {
       "fieldLabels": [
         "ana"
       ],
       "origin": [
         33,
-        538
+        557
       ],
       "bubblesGap": 10,
       "labelsGap": 10,
@@ -474,7 +474,7 @@
       ],
       "origin": [
         33,
-        557
+        575
       ],
       "bubblesGap": 10,
       "labelsGap": 10,
@@ -493,25 +493,6 @@
       ],
       "origin": [
         33,
-        575
-      ],
-      "bubblesGap": 10,
-      "labelsGap": 10,
-      "bubbleValues": [
-        "1"
-      ],
-      "direction": "horizontal",
-      "bubbleDimensions": [
-        10,
-        10
-      ]
-    },
-    "folate": {
-      "fieldLabels": [
-        "folate"
-      ],
-      "origin": [
-        32,
         592
       ],
       "bubblesGap": 11,
@@ -525,13 +506,32 @@
         15
       ]
     },
+    "folate": {
+      "fieldLabels": [
+        "folate"
+      ],
+      "origin": [
+        33,
+        615
+      ],
+      "bubblesGap": 10,
+      "labelsGap": 10,
+      "bubbleValues": [
+        "1"
+      ],
+      "direction": "horizontal",
+      "bubbleDimensions": [
+        10,
+        10
+      ]
+    },
     "vitamin_b12": {
       "fieldLabels": [
         "vitamin_b12"
       ],
       "origin": [
         33,
-        615
+        634
       ],
       "bubblesGap": 10,
       "labelsGap": 10,
@@ -550,7 +550,7 @@
       ],
       "origin": [
         33,
-        634
+        653
       ],
       "bubblesGap": 10,
       "labelsGap": 10,
@@ -569,25 +569,6 @@
       ],
       "origin": [
         33,
-        653
-      ],
-      "bubblesGap": 10,
-      "labelsGap": 10,
-      "bubbleValues": [
-        "1"
-      ],
-      "direction": "horizontal",
-      "bubbleDimensions": [
-        10,
-        10
-      ]
-    },
-    "ck_mb": {
-      "fieldLabels": [
-        "ck_mb"
-      ],
-      "origin": [
-        33,
         672
       ],
       "bubblesGap": 10,
@@ -601,9 +582,9 @@
         11
       ]
     },
-    "hs_crp": {
+    "ck_mb": {
       "fieldLabels": [
-        "hs_crp"
+        "ck_mb"
       ],
       "origin": [
         33,
@@ -620,9 +601,9 @@
         10
       ]
     },
-    "homocysteine": {
+    "hs_crp": {
       "fieldLabels": [
-        "homocysteine"
+        "hs_crp"
       ],
       "origin": [
         33,
@@ -639,9 +620,9 @@
         10
       ]
     },
-    "nt_probnp": {
+    "homocysteine": {
       "fieldLabels": [
-        "nt_probnp"
+        "homocysteine"
       ],
       "origin": [
         33,
@@ -658,13 +639,32 @@
         10
       ]
     },
+    "nt_probnp": {
+      "fieldLabels": [
+        "nt_probnp"
+      ],
+      "origin": [
+        33,
+        769
+      ],
+      "bubblesGap": 10,
+      "labelsGap": 10,
+      "bubbleValues": [
+        "1"
+      ],
+      "direction": "horizontal",
+      "bubbleDimensions": [
+        10,
+        10
+      ]
+    },
     "lp_a": {
       "fieldLabels": [
         "lp_a"
       ],
       "origin": [
-        32,
-        769
+        33,
+        787
       ],
       "bubblesGap": 10,
       "labelsGap": 10,
@@ -682,7 +682,7 @@
         "hba1c"
       ],
       "origin": [
-        287,
+        286,
         89
       ],
       "bubblesGap": 14,
@@ -720,7 +720,7 @@
         "glucose_random"
       ],
       "origin": [
-        275,
+        286,
         126
       ],
       "bubblesGap": 10,
@@ -739,7 +739,26 @@
         "creatinine"
       ],
       "origin": [
-        287,
+        286,
+        152
+      ],
+      "bubblesGap": 14,
+      "labelsGap": 14,
+      "bubbleValues": [
+        "1"
+      ],
+      "direction": "horizontal",
+      "bubbleDimensions": [
+        14,
+        14
+      ]
+    },
+    "urea": {
+      "fieldLabels": [
+        "urea"
+      ],
+      "origin": [
+        286,
         177
       ],
       "bubblesGap": 10,
@@ -753,32 +772,13 @@
         10
       ]
     },
-    "urea": {
-      "fieldLabels": [
-        "urea"
-      ],
-      "origin": [
-        286,
-        193
-      ],
-      "bubblesGap": 14,
-      "labelsGap": 15,
-      "bubbleValues": [
-        "1"
-      ],
-      "direction": "horizontal",
-      "bubbleDimensions": [
-        14,
-        15
-      ]
-    },
     "na": {
       "fieldLabels": [
         "na"
       ],
       "origin": [
         286,
-        212
+        193
       ],
       "bubblesGap": 14,
       "labelsGap": 15,
@@ -854,16 +854,16 @@
       ],
       "origin": [
         286,
-        231
+        212
       ],
-      "bubblesGap": 15,
+      "bubblesGap": 14,
       "labelsGap": 15,
       "bubbleValues": [
         "1"
       ],
       "direction": "horizontal",
       "bubbleDimensions": [
-        15,
+        14,
         15
       ]
     },
@@ -873,7 +873,7 @@
       ],
       "origin": [
         286,
-        267
+        231
       ],
       "bubblesGap": 15,
       "labelsGap": 15,
@@ -891,7 +891,26 @@
         "alt"
       ],
       "origin": [
-        287,
+        286,
+        267
+      ],
+      "bubblesGap": 15,
+      "labelsGap": 15,
+      "bubbleValues": [
+        "1"
+      ],
+      "direction": "horizontal",
+      "bubbleDimensions": [
+        15,
+        15
+      ]
+    },
+    "ast": {
+      "fieldLabels": [
+        "ast"
+      ],
+      "origin": [
+        286,
         285
       ],
       "bubblesGap": 14,
@@ -905,32 +924,13 @@
         14
       ]
     },
-    "ast": {
-      "fieldLabels": [
-        "ast"
-      ],
-      "origin": [
-        287,
-        304
-      ],
-      "bubblesGap": 14,
-      "labelsGap": 15,
-      "bubbleValues": [
-        "1"
-      ],
-      "direction": "horizontal",
-      "bubbleDimensions": [
-        14,
-        15
-      ]
-    },
     "ggt": {
       "fieldLabels": [
         "ggt"
       ],
       "origin": [
-        287,
-        323
+        286,
+        304
       ],
       "bubblesGap": 14,
       "labelsGap": 15,
@@ -948,17 +948,17 @@
         "bilirubin_total"
       ],
       "origin": [
-        287,
-        341
+        286,
+        323
       ],
-      "bubblesGap": 15,
+      "bubblesGap": 14,
       "labelsGap": 15,
       "bubbleValues": [
         "1"
       ],
       "direction": "horizontal",
       "bubbleDimensions": [
-        15,
+        14,
         15
       ]
     },
@@ -967,8 +967,8 @@
         "bilirubin_direct"
       ],
       "origin": [
-        287,
-        359
+        286,
+        341
       ],
       "bubblesGap": 15,
       "labelsGap": 15,
@@ -986,7 +986,26 @@
         "total_protein"
       ],
       "origin": [
-        288,
+        286,
+        359
+      ],
+      "bubblesGap": 15,
+      "labelsGap": 15,
+      "bubbleValues": [
+        "1"
+      ],
+      "direction": "horizontal",
+      "bubbleDimensions": [
+        15,
+        15
+      ]
+    },
+    "albumin": {
+      "fieldLabels": [
+        "albumin"
+      ],
+      "origin": [
+        286,
         379
       ],
       "bubblesGap": 14,
@@ -1000,12 +1019,12 @@
         14
       ]
     },
-    "albumin": {
+    "globulin": {
       "fieldLabels": [
-        "albumin"
+        "globulin"
       ],
       "origin": [
-        287,
+        286,
         397
       ],
       "bubblesGap": 15,
@@ -1019,12 +1038,12 @@
         15
       ]
     },
-    "globulin": {
+    "ag_ratio": {
       "fieldLabels": [
-        "globulin"
+        "ag_ratio"
       ],
       "origin": [
-        288,
+        286,
         415
       ],
       "bubblesGap": 14,
@@ -1038,32 +1057,13 @@
         15
       ]
     },
-    "ag_ratio": {
-      "fieldLabels": [
-        "ag_ratio"
-      ],
-      "origin": [
-        287,
-        434
-      ],
-      "bubblesGap": 15,
-      "labelsGap": 15,
-      "bubbleValues": [
-        "1"
-      ],
-      "direction": "horizontal",
-      "bubbleDimensions": [
-        15,
-        15
-      ]
-    },
     "chol_total": {
       "fieldLabels": [
         "chol_total"
       ],
       "origin": [
-        287,
-        473
+        286,
+        434
       ],
       "bubblesGap": 15,
       "labelsGap": 15,
@@ -1081,7 +1081,26 @@
         "hdl"
       ],
       "origin": [
-        287,
+        286,
+        473
+      ],
+      "bubblesGap": 15,
+      "labelsGap": 15,
+      "bubbleValues": [
+        "1"
+      ],
+      "direction": "horizontal",
+      "bubbleDimensions": [
+        15,
+        15
+      ]
+    },
+    "ldl": {
+      "fieldLabels": [
+        "ldl"
+      ],
+      "origin": [
+        286,
         493
       ],
       "bubblesGap": 14,
@@ -1095,12 +1114,12 @@
         14
       ]
     },
-    "ldl": {
+    "triglycerides": {
       "fieldLabels": [
-        "ldl"
+        "triglycerides"
       ],
       "origin": [
-        287,
+        286,
         511
       ],
       "bubblesGap": 14,
@@ -1114,9 +1133,9 @@
         15
       ]
     },
-    "triglycerides": {
+    "uric_acid": {
       "fieldLabels": [
-        "triglycerides"
+        "uric_acid"
       ],
       "origin": [
         286,
@@ -1133,12 +1152,12 @@
         15
       ]
     },
-    "uric_acid": {
+    "calcium": {
       "fieldLabels": [
-        "uric_acid"
+        "calcium"
       ],
       "origin": [
-        276,
+        286,
         552
       ],
       "bubblesGap": 9,
@@ -1152,12 +1171,12 @@
         10
       ]
     },
-    "calcium": {
+    "phosphorus": {
       "fieldLabels": [
-        "calcium"
+        "phosphorus"
       ],
       "origin": [
-        273,
+        286,
         568
       ],
       "bubblesGap": 14,
@@ -1171,32 +1190,13 @@
         15
       ]
     },
-    "phosphorus": {
-      "fieldLabels": [
-        "phosphorus"
-      ],
-      "origin": [
-        275,
-        590
-      ],
-      "bubblesGap": 10,
-      "labelsGap": 10,
-      "bubbleValues": [
-        "1"
-      ],
-      "direction": "horizontal",
-      "bubbleDimensions": [
-        10,
-        10
-      ]
-    },
     "ck_total": {
       "fieldLabels": [
         "ck_total"
       ],
       "origin": [
-        275,
-        611
+        286,
+        590
       ],
       "bubblesGap": 10,
       "labelsGap": 10,
@@ -1214,8 +1214,8 @@
         "ldh"
       ],
       "origin": [
-        275,
-        630
+        286,
+        611
       ],
       "bubblesGap": 10,
       "labelsGap": 10,
@@ -1233,7 +1233,26 @@
         "iron"
       ],
       "origin": [
-        275,
+        286,
+        630
+      ],
+      "bubblesGap": 10,
+      "labelsGap": 10,
+      "bubbleValues": [
+        "1"
+      ],
+      "direction": "horizontal",
+      "bubbleDimensions": [
+        10,
+        10
+      ]
+    },
+    "tibc": {
+      "fieldLabels": [
+        "tibc"
+      ],
+      "origin": [
+        286,
         649
       ],
       "bubblesGap": 10,
@@ -1247,12 +1266,12 @@
         11
       ]
     },
-    "tibc": {
+    "magnesium": {
       "fieldLabels": [
-        "tibc"
+        "magnesium"
       ],
       "origin": [
-        275,
+        286,
         669
       ],
       "bubblesGap": 9,
@@ -1266,12 +1285,12 @@
         11
       ]
     },
-    "magnesium": {
+    "amylase": {
       "fieldLabels": [
-        "magnesium"
+        "amylase"
       ],
       "origin": [
-        275,
+        286,
         689
       ],
       "bubblesGap": 9,
@@ -1285,12 +1304,12 @@
         10
       ]
     },
-    "amylase": {
+    "apo_ab_ratio": {
       "fieldLabels": [
-        "amylase"
+        "apo_ab_ratio"
       ],
       "origin": [
-        274,
+        286,
         709
       ],
       "bubblesGap": 10,
@@ -1304,12 +1323,12 @@
         10
       ]
     },
-    "apo_ab_ratio": {
+    "ebv_dna": {
       "fieldLabels": [
-        "apo_ab_ratio"
+        "ebv_dna"
       ],
       "origin": [
-        274,
+        286,
         727
       ],
       "bubblesGap": 10,
@@ -1323,32 +1342,32 @@
         11
       ]
     },
-    "ebv_dna": {
-      "fieldLabels": [
-        "ebv_dna"
-      ],
-      "origin": [
-        288,
-        745
-      ],
-      "bubblesGap": 13,
-      "labelsGap": 15,
-      "bubbleValues": [
-        "1"
-      ],
-      "direction": "horizontal",
-      "bubbleDimensions": [
-        13,
-        15
-      ]
-    },
     "hbv_dna": {
       "fieldLabels": [
         "hbv_dna"
       ],
       "origin": [
-        274,
+        286,
         767
+      ],
+      "bubblesGap": 10,
+      "labelsGap": 10,
+      "bubbleValues": [
+        "1"
+      ],
+      "direction": "horizontal",
+      "bubbleDimensions": [
+        10,
+        10
+      ]
+    },
+    "hcv_rna": {
+      "fieldLabels": [
+        "hcv_rna"
+      ],
+      "origin": [
+        286,
+        786
       ],
       "bubblesGap": 10,
       "labelsGap": 10,
@@ -1366,7 +1385,7 @@
         "hav_ab_igg"
       ],
       "origin": [
-        526,
+        527,
         66
       ],
       "bubblesGap": 9,
@@ -1385,7 +1404,7 @@
         "hav_ab_igm"
       ],
       "origin": [
-        526,
+        527,
         83
       ],
       "bubblesGap": 10,
@@ -1404,7 +1423,7 @@
         "hbsab"
       ],
       "origin": [
-        526,
+        527,
         101
       ],
       "bubblesGap": 10,
@@ -1423,7 +1442,7 @@
         "hbsag"
       ],
       "origin": [
-        526,
+        527,
         118
       ],
       "bubblesGap": 10,
@@ -1442,7 +1461,7 @@
         "hbeab"
       ],
       "origin": [
-        526,
+        527,
         137
       ],
       "bubblesGap": 10,
@@ -1461,7 +1480,7 @@
         "hbeag"
       ],
       "origin": [
-        526,
+        527,
         154
       ],
       "bubblesGap": 10,
@@ -1480,7 +1499,7 @@
         "hbcab"
       ],
       "origin": [
-        526,
+        527,
         172
       ],
       "bubblesGap": 10,
@@ -1689,7 +1708,26 @@
         "tsh"
       ],
       "origin": [
-        528,
+        527,
+        376
+      ],
+      "bubblesGap": 13,
+      "labelsGap": 14,
+      "bubbleValues": [
+        "1"
+      ],
+      "direction": "horizontal",
+      "bubbleDimensions": [
+        13,
+        14
+      ]
+    },
+    "ft3": {
+      "fieldLabels": [
+        "ft3"
+      ],
+      "origin": [
+        527,
         395
       ],
       "bubblesGap": 9,
@@ -1703,32 +1741,13 @@
         10
       ]
     },
-    "ft3": {
-      "fieldLabels": [
-        "ft3"
-      ],
-      "origin": [
-        526,
-        410
-      ],
-      "bubblesGap": 14,
-      "labelsGap": 15,
-      "bubbleValues": [
-        "1"
-      ],
-      "direction": "horizontal",
-      "bubbleDimensions": [
-        14,
-        15
-      ]
-    },
     "ft4": {
       "fieldLabels": [
         "ft4"
       ],
       "origin": [
-        526,
-        429
+        527,
+        410
       ],
       "bubblesGap": 14,
       "labelsGap": 15,
@@ -1746,18 +1765,18 @@
         "t3"
       ],
       "origin": [
-        526,
-        449
+        527,
+        429
       ],
       "bubblesGap": 14,
-      "labelsGap": 14,
+      "labelsGap": 15,
       "bubbleValues": [
         "1"
       ],
       "direction": "horizontal",
       "bubbleDimensions": [
         14,
-        14
+        15
       ]
     },
     "t4": {
@@ -1765,8 +1784,8 @@
         "t4"
       ],
       "origin": [
-        526,
-        469
+        527,
+        449
       ],
       "bubblesGap": 14,
       "labelsGap": 14,
@@ -1784,7 +1803,26 @@
         "tgab"
       ],
       "origin": [
-        526,
+        527,
+        469
+      ],
+      "bubblesGap": 14,
+      "labelsGap": 14,
+      "bubbleValues": [
+        "1"
+      ],
+      "direction": "horizontal",
+      "bubbleDimensions": [
+        14,
+        14
+      ]
+    },
+    "tpoab": {
+      "fieldLabels": [
+        "tpoab"
+      ],
+      "origin": [
+        527,
         488
       ],
       "bubblesGap": 14,
@@ -1798,12 +1836,12 @@
         15
       ]
     },
-    "tpoab": {
+    "tg": {
       "fieldLabels": [
-        "tpoab"
+        "tg"
       ],
       "origin": [
-        526,
+        527,
         506
       ],
       "bubblesGap": 15,
@@ -1817,9 +1855,9 @@
         15
       ]
     },
-    "tg": {
+    "pth": {
       "fieldLabels": [
-        "tg"
+        "pth"
       ],
       "origin": [
         527,
@@ -1836,32 +1874,13 @@
         15
       ]
     },
-    "pth": {
-      "fieldLabels": [
-        "pth"
-      ],
-      "origin": [
-        527,
-        545
-      ],
-      "bubblesGap": 14,
-      "labelsGap": 15,
-      "bubbleValues": [
-        "1"
-      ],
-      "direction": "horizontal",
-      "bubbleDimensions": [
-        14,
-        15
-      ]
-    },
     "cortisol": {
       "fieldLabels": [
         "cortisol"
       ],
       "origin": [
         527,
-        564
+        545
       ],
       "bubblesGap": 14,
       "labelsGap": 15,
@@ -1880,6 +1899,25 @@
       ],
       "origin": [
         527,
+        564
+      ],
+      "bubblesGap": 14,
+      "labelsGap": 15,
+      "bubbleValues": [
+        "1"
+      ],
+      "direction": "horizontal",
+      "bubbleDimensions": [
+        14,
+        15
+      ]
+    },
+    "beta_hcg": {
+      "fieldLabels": [
+        "beta_hcg"
+      ],
+      "origin": [
+        527,
         583
       ],
       "bubblesGap": 14,
@@ -1893,9 +1931,9 @@
         16
       ]
     },
-    "beta_hcg": {
+    "estradiol": {
       "fieldLabels": [
-        "beta_hcg"
+        "estradiol"
       ],
       "origin": [
         527,
@@ -1912,32 +1950,13 @@
         15
       ]
     },
-    "estradiol": {
-      "fieldLabels": [
-        "estradiol"
-      ],
-      "origin": [
-        527,
-        624
-      ],
-      "bubblesGap": 15,
-      "labelsGap": 15,
-      "bubbleValues": [
-        "1"
-      ],
-      "direction": "horizontal",
-      "bubbleDimensions": [
-        15,
-        15
-      ]
-    },
     "fsh": {
       "fieldLabels": [
         "fsh"
       ],
       "origin": [
         527,
-        643
+        624
       ],
       "bubblesGap": 15,
       "labelsGap": 15,
@@ -1956,7 +1975,7 @@
       ],
       "origin": [
         527,
-        663
+        643
       ],
       "bubblesGap": 15,
       "labelsGap": 15,
@@ -1975,7 +1994,7 @@
       ],
       "origin": [
         527,
-        683
+        663
       ],
       "bubblesGap": 15,
       "labelsGap": 15,
@@ -1994,7 +2013,7 @@
       ],
       "origin": [
         527,
-        703
+        683
       ],
       "bubblesGap": 15,
       "labelsGap": 15,
@@ -2013,7 +2032,7 @@
       ],
       "origin": [
         527,
-        722
+        703
       ],
       "bubblesGap": 15,
       "labelsGap": 15,
@@ -2031,7 +2050,26 @@
         "dheas"
       ],
       "origin": [
-        528,
+        527,
+        722
+      ],
+      "bubblesGap": 15,
+      "labelsGap": 15,
+      "bubbleValues": [
+        "1"
+      ],
+      "direction": "horizontal",
+      "bubbleDimensions": [
+        15,
+        15
+      ]
+    },
+    "igf1": {
+      "fieldLabels": [
+        "igf1"
+      ],
+      "origin": [
+        527,
         742
       ],
       "bubblesGap": 14,
@@ -2045,13 +2083,32 @@
         16
       ]
     },
-    "igf1": {
+    "insulin": {
       "fieldLabels": [
-        "igf1"
+        "insulin"
       ],
       "origin": [
-        528,
+        527,
         762
+      ],
+      "bubblesGap": 15,
+      "labelsGap": 15,
+      "bubbleValues": [
+        "1"
+      ],
+      "direction": "horizontal",
+      "bubbleDimensions": [
+        15,
+        15
+      ]
+    },
+    "shbg": {
+      "fieldLabels": [
+        "shbg"
+      ],
+      "origin": [
+        527,
+        781
       ],
       "bubblesGap": 15,
       "labelsGap": 15,
@@ -2069,7 +2126,7 @@
         "afp"
       ],
       "origin": [
-        781,
+        783,
         58
       ],
       "bubblesGap": 10,
@@ -2088,7 +2145,7 @@
         "ca125"
       ],
       "origin": [
-        781,
+        783,
         76
       ],
       "bubblesGap": 10,
@@ -2107,7 +2164,7 @@
         "ca153"
       ],
       "origin": [
-        782,
+        783,
         94
       ],
       "bubblesGap": 9,
@@ -2126,7 +2183,7 @@
         "ca199"
       ],
       "origin": [
-        782,
+        783,
         112
       ],
       "bubblesGap": 10,
@@ -2145,7 +2202,7 @@
         "ca724"
       ],
       "origin": [
-        782,
+        783,
         130
       ],
       "bubblesGap": 10,
@@ -2298,17 +2355,17 @@
       ],
       "origin": [
         783,
-        294
+        296
       ],
-      "bubblesGap": 11,
-      "labelsGap": 14,
+      "bubblesGap": 10,
+      "labelsGap": 10,
       "bubbleValues": [
         "1"
       ],
       "direction": "horizontal",
       "bubbleDimensions": [
-        11,
-        14
+        10,
+        10
       ]
     },
     "urinalysis": {
@@ -2335,7 +2392,7 @@
         "culture_st"
       ],
       "origin": [
-        784,
+        783,
         333
       ],
       "bubblesGap": 10,
@@ -2354,18 +2411,18 @@
         "pregnancy"
       ],
       "origin": [
-        784,
-        352
+        783,
+        350
       ],
-      "bubblesGap": 10,
-      "labelsGap": 10,
+      "bubblesGap": 14,
+      "labelsGap": 14,
       "bubbleValues": [
         "1"
       ],
       "direction": "horizontal",
       "bubbleDimensions": [
-        10,
-        10
+        14,
+        14
       ]
     },
     "microalbumin": {
@@ -2373,18 +2430,18 @@
         "microalbumin"
       ],
       "origin": [
-        784,
-        371
+        783,
+        368
       ],
-      "bubblesGap": 10,
-      "labelsGap": 10,
+      "bubblesGap": 14,
+      "labelsGap": 15,
       "bubbleValues": [
         "1"
       ],
       "direction": "horizontal",
       "bubbleDimensions": [
-        10,
-        10
+        14,
+        15
       ]
     },
     "microalbumin_creatinine": {
@@ -2392,18 +2449,18 @@
         "microalbumin_creatinine"
       ],
       "origin": [
-        784,
-        390
+        783,
+        388
       ],
-      "bubblesGap": 11,
-      "labelsGap": 10,
+      "bubblesGap": 17,
+      "labelsGap": 15,
       "bubbleValues": [
         "1"
       ],
       "direction": "horizontal",
       "bubbleDimensions": [
-        11,
-        10
+        17,
+        15
       ]
     },
     "nicotine_cotinine": {
@@ -2430,7 +2487,7 @@
         "protein_creatinine"
       ],
       "origin": [
-        785,
+        783,
         427
       ],
       "bubblesGap": 11,
@@ -2449,17 +2506,17 @@
         "occult_blood_fit"
       ],
       "origin": [
-        784,
-        444
+        783,
+        465
       ],
-      "bubblesGap": 10,
+      "bubblesGap": 15,
       "labelsGap": 15,
       "bubbleValues": [
         "1"
       ],
       "direction": "horizontal",
       "bubbleDimensions": [
-        10,
+        15,
         15
       ]
     },
@@ -2468,8 +2525,8 @@
         "stool_routine"
       ],
       "origin": [
-        784,
-        465
+        783,
+        485
       ],
       "bubblesGap": 15,
       "labelsGap": 15,
@@ -2487,8 +2544,8 @@
         "hpylori_stool"
       ],
       "origin": [
-        784,
-        485
+        783,
+        503
       ],
       "bubblesGap": 15,
       "labelsGap": 15,
@@ -2506,18 +2563,18 @@
         "semen_analysis"
       ],
       "origin": [
-        784,
-        503
+        783,
+        532
       ],
-      "bubblesGap": 15,
-      "labelsGap": 15,
+      "bubblesGap": 10,
+      "labelsGap": 10,
       "bubbleValues": [
         "1"
       ],
       "direction": "horizontal",
       "bubbleDimensions": [
-        15,
-        15
+        10,
+        10
       ]
     },
     "urea_breath": {
@@ -2525,7 +2582,7 @@
         "urea_breath"
       ],
       "origin": [
-        785,
+        783,
         562
       ],
       "bubblesGap": 15,
@@ -2544,7 +2601,7 @@
         "pap_smear"
       ],
       "origin": [
-        786,
+        783,
         582
       ],
       "bubblesGap": 14,
