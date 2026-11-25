@@ -1,0 +1,575 @@
+{
+  "comment": "LOINC CLASS/COMPONENT subset for AE2 class link. CLASS follows LOINC 2.83 lab CLASSTYPE=1.",
+  "nodes": [
+    {
+      "loinc": "10334-1",
+      "kind": "loinc_code",
+      "class": "CHEM",
+      "component": "Cancer Ag 125"
+    },
+    {
+      "loinc": "10569-2",
+      "kind": "loinc_code",
+      "class": "HEM/BC",
+      "component": "Sperm"
+    },
+    {
+      "loinc": "10580-9",
+      "kind": "loinc_code",
+      "class": "HEM/BC",
+      "component": "Sperm"
+    },
+    {
+      "loinc": "10839-9",
+      "kind": "loinc_code",
+      "class": "CHEM",
+      "component": "Troponin I.cardiac"
+    },
+    {
+      "loinc": "11572-5",
+      "kind": "loinc_code",
+      "class": "SERO",
+      "component": "Rheumatoid factor"
+    },
+    {
+      "loinc": "13457-7",
+      "kind": "loinc_code",
+      "class": "CHEM",
+      "component": "Cholesterol.in LDL"
+    },
+    {
+      "loinc": "13514-5",
+      "kind": "loinc_code",
+      "class": "HEM/BC",
+      "component": "Hemoglobin pattern"
+    },
+    {
+      "loinc": "13950-1",
+      "kind": "loinc_code",
+      "class": "SERO",
+      "component": "Hepatitis A virus Ab.IgM"
+    },
+    {
+      "loinc": "14805-6",
+      "kind": "loinc_code",
+      "class": "CHEM",
+      "component": "Lactate dehydrogenase"
+    },
+    {
+      "loinc": "14957-5",
+      "kind": "loinc_code",
+      "class": "CHEM",
+      "component": "Albumin"
+    },
+    {
+      "loinc": "14959-1",
+      "kind": "loinc_code",
+      "class": "CHEM",
+      "component": "Albumin/Creatinine"
+    },
+    {
+      "loinc": "15067-2",
+      "kind": "loinc_code",
+      "class": "CHEM",
+      "component": "Follitropin"
+    },
+    {
+      "loinc": "1558-6",
+      "kind": "loinc_code",
+      "class": "CHEM",
+      "component": "Glucose"
+    },
+    {
+      "loinc": "1742-6",
+      "kind": "loinc_code",
+      "class": "CHEM",
+      "component": "Alanine aminotransferase"
+    },
+    {
+      "loinc": "1751-7",
+      "kind": "loinc_code",
+      "class": "CHEM",
+      "component": "Albumin"
+    },
+    {
+      "loinc": "1759-0",
+      "kind": "loinc_code",
+      "class": "CHEM",
+      "component": "Albumin/Globulin"
+    },
+    {
+      "loinc": "17861-6",
+      "kind": "loinc_code",
+      "class": "CHEM",
+      "component": "Calcium"
+    },
+    {
+      "loinc": "1920-8",
+      "kind": "loinc_code",
+      "class": "CHEM",
+      "component": "Aspartate aminotransferase"
+    },
+    {
+      "loinc": "1968-7",
+      "kind": "loinc_code",
+      "class": "CHEM",
+      "component": "Bilirubin.direct"
+    },
+    {
+      "loinc": "1975-2",
+      "kind": "loinc_code",
+      "class": "CHEM",
+      "component": "Bilirubin"
+    },
+    {
+      "loinc": "2028-9",
+      "kind": "loinc_code",
+      "class": "CHEM",
+      "component": "Carbon dioxide"
+    },
+    {
+      "loinc": "2039-6",
+      "kind": "loinc_code",
+      "class": "CHEM",
+      "component": "Carcinoembryonic Ag"
+    },
+    {
+      "loinc": "20405-7",
+      "kind": "loinc_code",
+      "class": "UA",
+      "component": "Urinalysis"
+    },
+    {
+      "loinc": "20436-2",
+      "kind": "loinc_code",
+      "class": "CHEM",
+      "component": "Glucose"
+    },
+    {
+      "loinc": "20438-8",
+      "kind": "loinc_code",
+      "class": "CHEM",
+      "component": "Glucose"
+    },
+    {
+      "loinc": "20454-5",
+      "kind": "loinc_code",
+      "class": "UA",
+      "component": "Urinalysis"
+    },
+    {
+      "loinc": "20505-4",
+      "kind": "loinc_code",
+      "class": "UA",
+      "component": "Urinalysis"
+    },
+    {
+      "loinc": "2075-0",
+      "kind": "loinc_code",
+      "class": "CHEM",
+      "component": "Chloride"
+    },
+    {
+      "loinc": "2085-9",
+      "kind": "loinc_code",
+      "class": "CHEM",
+      "component": "Cholesterol.high density lipoprotein"
+    },
+    {
+      "loinc": "2093-3",
+      "kind": "loinc_code",
+      "class": "CHEM",
+      "component": "Cholesterol"
+    },
+    {
+      "loinc": "2106-3",
+      "kind": "loinc_code",
+      "class": "CHEM",
+      "component": "Choriogonadotropin"
+    },
+    {
+      "loinc": "2132-9",
+      "kind": "loinc_code",
+      "class": "CHEM",
+      "component": "Cobalamin"
+    },
+    {
+      "loinc": "2157-6",
+      "kind": "loinc_code",
+      "class": "CHEM",
+      "component": "Creatine kinase"
+    },
+    {
+      "loinc": "2160-0",
+      "kind": "loinc_code",
+      "class": "CHEM",
+      "component": "Creatinine"
+    },
+    {
+      "loinc": "2191-5",
+      "kind": "loinc_code",
+      "class": "CHEM",
+      "component": "Dehydroepiandrosterone sulfate"
+    },
+    {
+      "loinc": "2243-4",
+      "kind": "loinc_code",
+      "class": "CHEM",
+      "component": "Estradiol"
+    },
+    {
+      "loinc": "2276-4",
+      "kind": "loinc_code",
+      "class": "CHEM",
+      "component": "Ferritin"
+    },
+    {
+      "loinc": "2284-8",
+      "kind": "loinc_code",
+      "class": "CHEM",
+      "component": "Folate"
+    },
+    {
+      "loinc": "2295-4",
+      "kind": "loinc_code",
+      "class": "HEM/BC",
+      "component": "Sperm"
+    },
+    {
+      "loinc": "2345-7",
+      "kind": "loinc_code",
+      "class": "CHEM",
+      "component": "Glucose"
+    },
+    {
+      "loinc": "2498-4",
+      "kind": "loinc_code",
+      "class": "CHEM",
+      "component": "Iron"
+    },
+    {
+      "loinc": "2500-7",
+      "kind": "loinc_code",
+      "class": "CHEM",
+      "component": "Iron binding capacity"
+    },
+    {
+      "loinc": "2514-8",
+      "kind": "loinc_code",
+      "class": "UA",
+      "component": "Urinalysis"
+    },
+    {
+      "loinc": "25428-4",
+      "kind": "loinc_code",
+      "class": "UA",
+      "component": "Urinalysis"
+    },
+    {
+      "loinc": "25514-1",
+      "kind": "loinc_code",
+      "class": "SERO",
+      "component": "Rubella virus Ab.IgG"
+    },
+    {
+      "loinc": "2571-8",
+      "kind": "loinc_code",
+      "class": "CHEM",
+      "component": "Triglyceride"
+    },
+    {
+      "loinc": "2731-8",
+      "kind": "loinc_code",
+      "class": "CHEM",
+      "component": "Parathyrin intact"
+    },
+    {
+      "loinc": "2752-4",
+      "kind": "loinc_code",
+      "class": "HEM/BC",
+      "component": "Sperm"
+    },
+    {
+      "loinc": "2777-1",
+      "kind": "loinc_code",
+      "class": "CHEM",
+      "component": "Phosphate"
+    },
+    {
+      "loinc": "2823-3",
+      "kind": "loinc_code",
+      "class": "CHEM",
+      "component": "Potassium"
+    },
+    {
+      "loinc": "2839-9",
+      "kind": "loinc_code",
+      "class": "CHEM",
+      "component": "Progesterone"
+    },
+    {
+      "loinc": "2842-3",
+      "kind": "loinc_code",
+      "class": "CHEM",
+      "component": "Prolactin"
+    },
+    {
+      "loinc": "2857-1",
+      "kind": "loinc_code",
+      "class": "CHEM",
+      "component": "Prostate specific Ag"
+    },
+    {
+      "loinc": "2885-2",
+      "kind": "loinc_code",
+      "class": "CHEM",
+      "component": "Protein"
+    },
+    {
+      "loinc": "2951-2",
+      "kind": "loinc_code",
+      "class": "CHEM",
+      "component": "Sodium"
+    },
+    {
+      "loinc": "29771-3",
+      "kind": "loinc_code",
+      "class": "HEM/BC",
+      "component": "Hemoglobin.gastrointestinal"
+    },
+    {
+      "loinc": "2986-8",
+      "kind": "loinc_code",
+      "class": "CHEM",
+      "component": "Testosterone"
+    },
+    {
+      "loinc": "3016-3",
+      "kind": "loinc_code",
+      "class": "CHEM",
+      "component": "Thyrotropin"
+    },
+    {
+      "loinc": "3024-7",
+      "kind": "loinc_code",
+      "class": "CHEM",
+      "component": "Thyroxine.free"
+    },
+    {
+      "loinc": "3051-0",
+      "kind": "loinc_code",
+      "class": "CHEM",
+      "component": "Triiodothyronine.free"
+    },
+    {
+      "loinc": "3084-1",
+      "kind": "loinc_code",
+      "class": "CHEM",
+      "component": "Urate"
+    },
+    {
+      "loinc": "3094-0",
+      "kind": "loinc_code",
+      "class": "CHEM",
+      "component": "Urea nitrogen"
+    },
+    {
+      "loinc": "3160-9",
+      "kind": "loinc_code",
+      "class": "HEM/BC",
+      "component": "Sperm"
+    },
+    {
+      "loinc": "32167-9",
+      "kind": "loinc_code",
+      "class": "UA",
+      "component": "Urinalysis"
+    },
+    {
+      "loinc": "32207-3",
+      "kind": "loinc_code",
+      "class": "HEM/BC",
+      "component": "Platelet [Mean volume]"
+    },
+    {
+      "loinc": "32623-1",
+      "kind": "loinc_code",
+      "class": "HEM/BC",
+      "component": "Platelet [Mean volume]"
+    },
+    {
+      "loinc": "32789-0",
+      "kind": "loinc_code",
+      "class": "HEM/BC",
+      "component": "Sperm"
+    },
+    {
+      "loinc": "4537-7",
+      "kind": "loinc_code",
+      "class": "HEM/BC",
+      "component": "Erythrocyte sedimentation rate"
+    },
+    {
+      "loinc": "4544-3",
+      "kind": "loinc_code",
+      "class": "HEM/BC",
+      "component": "Hematocrit"
+    },
+    {
+      "loinc": "4548-4",
+      "kind": "loinc_code",
+      "class": "HEM/BC",
+      "component": "Hemoglobin A1c"
+    },
+    {
+      "loinc": "5196-1",
+      "kind": "loinc_code",
+      "class": "SERO",
+      "component": "Hepatitis B virus surface Ag"
+    },
+    {
+      "loinc": "5767-9",
+      "kind": "loinc_code",
+      "class": "UA",
+      "component": "Urinalysis"
+    },
+    {
+      "loinc": "5770-3",
+      "kind": "loinc_code",
+      "class": "UA",
+      "component": "Urinalysis"
+    },
+    {
+      "loinc": "5778-6",
+      "kind": "loinc_code",
+      "class": "UA",
+      "component": "Urinalysis"
+    },
+    {
+      "loinc": "5792-7",
+      "kind": "loinc_code",
+      "class": "UA",
+      "component": "Urinalysis"
+    },
+    {
+      "loinc": "5794-3",
+      "kind": "loinc_code",
+      "class": "UA",
+      "component": "Urinalysis"
+    },
+    {
+      "loinc": "5797-6",
+      "kind": "loinc_code",
+      "class": "UA",
+      "component": "Urinalysis"
+    },
+    {
+      "loinc": "5799-2",
+      "kind": "loinc_code",
+      "class": "UA",
+      "component": "Urinalysis"
+    },
+    {
+      "loinc": "5802-4",
+      "kind": "loinc_code",
+      "class": "UA",
+      "component": "Urinalysis"
+    },
+    {
+      "loinc": "5803-2",
+      "kind": "loinc_code",
+      "class": "UA",
+      "component": "Urinalysis"
+    },
+    {
+      "loinc": "5804-0",
+      "kind": "loinc_code",
+      "class": "UA",
+      "component": "Urinalysis"
+    },
+    {
+      "loinc": "5811-5",
+      "kind": "loinc_code",
+      "class": "UA",
+      "component": "Urinalysis"
+    },
+    {
+      "loinc": "62292-8",
+      "kind": "loinc_code",
+      "class": "CHEM",
+      "component": "Calcidiol"
+    },
+    {
+      "loinc": "6690-2",
+      "kind": "loinc_code",
+      "class": "HEM/BC",
+      "component": "Leukocytes"
+    },
+    {
+      "loinc": "6768-6",
+      "kind": "loinc_code",
+      "class": "CHEM",
+      "component": "Alkaline phosphatase"
+    },
+    {
+      "loinc": "718-7",
+      "kind": "loinc_code",
+      "class": "HEM/BC",
+      "component": "Hemoglobin"
+    },
+    {
+      "loinc": "777-3",
+      "kind": "loinc_code",
+      "class": "HEM/BC",
+      "component": "Platelets"
+    },
+    {
+      "loinc": "785-6",
+      "kind": "loinc_code",
+      "class": "HEM/BC",
+      "component": "MCH"
+    },
+    {
+      "loinc": "786-4",
+      "kind": "loinc_code",
+      "class": "HEM/BC",
+      "component": "MCHC"
+    },
+    {
+      "loinc": "787-2",
+      "kind": "loinc_code",
+      "class": "HEM/BC",
+      "component": "MCV"
+    },
+    {
+      "loinc": "788-0",
+      "kind": "loinc_code",
+      "class": "HEM/BC",
+      "component": "Erythrocyte [DistWidth]"
+    },
+    {
+      "loinc": "789-8",
+      "kind": "loinc_code",
+      "class": "HEM/BC",
+      "component": "Erythrocytes"
+    },
+    {
+      "loinc": "882-1",
+      "kind": "loinc_code",
+      "class": "HEM/BC",
+      "component": "ABO and Rh group"
+    },
+    {
+      "loinc": "94505-5",
+      "kind": "loinc_code",
+      "class": "SERO",
+      "component": "SARS-CoV-2 Ab.IgG"
+    },
+    {
+      "loinc": "98979-8",
+      "kind": "loinc_code",
+      "class": "CHEM",
+      "component": "Glomerular filtration rate"
+    }
+  ]
+}
